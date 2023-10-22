@@ -1,0 +1,24 @@
+{
+    "name": "sovware/bunny-cdn-php-storage",
+    "description": "The official PHP library used for interacting with the BunnyCDN Storage API.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "": "bunnycdn-storage.php"
+        }
+    },
+    "authors": [
+        {
+            "name": "MD AL AMIN",
+            "email": "mdalaminbey@gmail.com"
+        },
+        {
+            "name": "Syed Galib Ahmed",
+            "email": "syedgalibahmed@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT"
+}

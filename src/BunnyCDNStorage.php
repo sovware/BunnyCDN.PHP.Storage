@@ -1,5 +1,9 @@
 <?php
 
+namespace SovWare\BunnyCDN;
+
+use \Exception;
+
 class BunnyCDNStorage
 {
     /**
